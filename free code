@@ -10,6 +10,31 @@
             <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
             <a href="https:/frecatphotoapp.com">link to cat pictures</a>
         </section>
+        <section>
+            <h2>Cat lists</h2>
+              <h3>Things cats love:</h3>
+              <ul>
+                <li>milk</li>
+                <li>lasagne</li>
+                <li>laser pointers</li>
+              </ul>
+              <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate">
+              <figure>
+                <figcaptation>Cats <em>love</em> lasagna.</figcaptation>
+              </figure>
+        </section>
+        <section>
+            <h3>Things cats hate:</h3>
+            <ol>
+                <li>flea</li>
+                <li>thunder</li>
+                <li>other cats</li>
+              <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Five cats looking around a field.">
+              <figure>
+                <figcaptation>Cats <strong>hate</strong> other cats.</figcaptation>
+              </figure>
+        </section>
+
         </main>
     </body>
 </html>
